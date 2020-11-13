@@ -1,0 +1,498 @@
+Data_As_Of,SFY,Office,Region,Demographic,Exit_Type,LOS_LessThan24Mnths,LOS_MoreThan24Mnths,Total_Adoptions,Demographic_Type
+10/13/2016,2016,Meriden,Region 6,Male,Adoption,6,4,10,Gender
+10/13/2016,2016,Meriden,Region 6,Female,Adoption,6,5,11,Gender
+10/13/2016,2016,Willimantic,Region 3,Male,Adoption,10,17,27,Gender
+10/13/2016,2016,Milford,Region 2,Female,Adoption,4,5,9,Gender
+10/13/2016,2016,Waterbury,Region 5,Male,Adoption,6,13,19,Gender
+10/13/2016,2016,Waterbury,Region 5,Female,Adoption,2,7,9,Gender
+10/13/2016,2016,Norwalk,Region 1,Male,Adoption,3,5,8,Gender
+10/13/2016,2016,Danbury,Region 5,Female,Adoption,1,7,8,Gender
+10/13/2016,2016,Willimantic,Region 3,Female,Adoption,5,15,20,Gender
+10/13/2016,2016,New Haven,Region 2,Male,Adoption,5,8,13,Gender
+10/13/2016,2016,New Britain,Region 6,Male,Adoption,13,11,24,Gender
+10/13/2016,2016,New Britain,Region 6,Female,Adoption,19,10,29,Gender
+10/13/2016,2016,Middletown,Region 3,Male,Adoption,2,5,7,Gender
+10/13/2016,2016,Middletown,Region 3,Female,Adoption,5,4,9,Gender
+10/13/2016,2016,Manchester,Region 4,Male,Adoption,6,13,19,Gender
+10/13/2016,2016,Norwich,Region 3,Male,Adoption,22,24,46,Gender
+10/13/2016,2016,Manchester,Region 4,Female,Adoption,5,9,14,Gender
+10/13/2016,2016,Bridgeport,Region 1,Male,Adoption,1,6,7,Gender
+10/13/2016,2016,Norwalk,Region 1,Female,Adoption,1,9,10,Gender
+10/13/2016,2016,Norwich,Region 3,Female,Adoption,9,25,34,Gender
+10/13/2016,2016,Bridgeport,Region 1,Female,Adoption,2,10,12,Gender
+10/13/2016,2016,Milford,Region 2,Male,Adoption,3,12,15,Gender
+10/13/2016,2016,Hartford,Region 4,Female,Adoption,13,24,37,Gender
+10/13/2016,2016,Torrington,Region 5,Male,Adoption,2,8,10,Gender
+10/13/2016,2016,Hartford,Region 4,Male,Adoption,6,29,35,Gender
+10/13/2016,2016,Danbury,Region 5,Male,Adoption,1,10,11,Gender
+10/13/2016,2016,Torrington,Region 5,Female,Adoption,3,3,6,Gender
+10/13/2016,2016,New Haven,Region 2,Female,Adoption,6,14,20,Gender
+09/14/2017,2015,Milford,Region 2,Female,Adoption,3,2,5,Gender
+09/14/2017,2015,Norwich,Region 3,Female,Adoption,19,13,32,Gender
+09/14/2017,2015,Willimantic,Region 3,Female,Adoption,16,9,25,Gender
+09/14/2017,2015,New Britain,Region 6,Female,Adoption,14,10,24,Gender
+09/14/2017,2015,Manchester,Region 4,Male,Adoption,5,9,14,Gender
+09/14/2017,2015,Torrington,Region 5,Female,Adoption,4,22,26,Gender
+09/14/2017,2015,Milford,Region 2,Male,Adoption,1,6,7,Gender
+09/14/2017,2015,Danbury,Region 5,Female,Adoption,2,7,9,Gender
+09/14/2017,2015,Danbury,Region 5,Male,Adoption,2,4,6,Gender
+09/14/2017,2015,Waterbury,Region 5,Female,Adoption,3,15,18,Gender
+09/14/2017,2015,New Haven,Region 2,Male,Adoption,10,24,34,Gender
+09/14/2017,2015,Waterbury,Region 5,Male,Adoption,2,16,18,Gender
+09/14/2017,2015,Bridgeport,Region 1,Male,Adoption,1,11,12,Gender
+09/14/2017,2015,Willimantic,Region 3,Male,Adoption,6,18,24,Gender
+09/14/2017,2015,Meriden,Region 6,Male,Adoption,6,8,14,Gender
+09/14/2017,2015,Hartford,Region 4,Male,Adoption,7,37,44,Gender
+09/14/2017,2015,New Britain,Region 6,Male,Adoption,9,13,22,Gender
+09/14/2017,2015,Norwich,Region 3,Male,Adoption,8,18,26,Gender
+09/14/2017,2015,Norwalk,Region 1,Male,Adoption,0,5,5,Gender
+09/14/2017,2015,Hartford,Region 4,Female,Adoption,11,35,46,Gender
+09/14/2017,2015,Middletown,Region 3,Male,Adoption,4,4,8,Gender
+09/14/2017,2015,Torrington,Region 5,Male,Adoption,7,9,16,Gender
+09/14/2017,2015,Middletown,Region 3,Female,Adoption,3,7,10,Gender
+09/14/2017,2015,Norwalk,Region 1,Female,Adoption,0,2,2,Gender
+09/14/2017,2015,Meriden,Region 6,Female,Adoption,11,15,26,Gender
+09/14/2017,2015,Bridgeport,Region 1,Female,Adoption,0,9,9,Gender
+09/14/2017,2015,New Haven,Region 2,Female,Adoption,2,20,22,Gender
+09/14/2017,2015,Manchester,Region 4,Female,Adoption,5,4,9,Gender
+02/18/2016,2014,Torrington,Region 5,Female,Adoption,4,7,11,Gender
+02/18/2016,2014,Norwich,Region 3,Male,Adoption,9,21,30,Gender
+02/18/2016,2014,Milford,Region 2,Female,Adoption,1,2,3,Gender
+02/18/2016,2014,Hartford,Region 4,Male,Adoption,16,29,45,Gender
+02/18/2016,2014,Danbury,Region 5,Male,Adoption,0,4,4,Gender
+02/18/2016,2014,Other,Region 0,Female,Adoption,0,1,1,Gender
+02/18/2016,2014,New Britain,Region 6,Male,Adoption,8,12,20,Gender
+02/18/2016,2014,Norwalk,Region 1,Male,Adoption,1,2,3,Gender
+02/18/2016,2014,New Haven,Region 2,Male,Adoption,7,7,14,Gender
+02/18/2016,2014,Norwalk,Region 1,Female,Adoption,2,4,6,Gender
+02/18/2016,2014,Meriden,Region 6,Male,Adoption,6,5,11,Gender
+02/18/2016,2014,New Britain,Region 6,Female,Adoption,6,10,16,Gender
+02/18/2016,2014,Bridgeport,Region 1,Female,Adoption,3,5,8,Gender
+02/18/2016,2014,Middletown,Region 3,Female,Adoption,1,10,11,Gender
+02/18/2016,2014,Waterbury,Region 5,Male,Adoption,2,16,18,Gender
+02/18/2016,2014,New Haven,Region 2,Female,Adoption,7,16,23,Gender
+02/18/2016,2014,Danbury,Region 5,Female,Adoption,0,4,4,Gender
+02/18/2016,2014,Manchester,Region 4,Male,Adoption,5,2,7,Gender
+02/18/2016,2014,Waterbury,Region 5,Female,Adoption,4,14,18,Gender
+02/18/2016,2014,Norwich,Region 3,Female,Adoption,5,23,28,Gender
+02/18/2016,2014,Stamford,Region 1,Male,Adoption,0,1,1,Gender
+02/18/2016,2014,Willimantic,Region 3,Female,Adoption,14,6,20,Gender
+02/18/2016,2014,Middletown,Region 3,Male,Adoption,5,6,11,Gender
+02/18/2016,2014,Willimantic,Region 3,Male,Adoption,15,7,22,Gender
+02/18/2016,2014,Milford,Region 2,Male,Adoption,2,2,4,Gender
+02/18/2016,2014,Torrington,Region 5,Male,Adoption,5,10,15,Gender
+02/18/2016,2014,Meriden,Region 6,Female,Adoption,3,11,14,Gender
+02/18/2016,2014,Manchester,Region 4,Female,Adoption,4,3,7,Gender
+02/18/2016,2014,Hartford,Region 4,Female,Adoption,14,27,41,Gender
+02/18/2016,2014,Bridgeport,Region 1,Male,Adoption,1,4,5,Gender
+02/10/2016,2013,Bridgeport,Region 1,Female,Adoption,4,10,14,Gender
+02/10/2016,2013,New Britain,Region 6,Female,Adoption,7,18,25,Gender
+02/10/2016,2013,New Britain,Region 6,Male,Adoption,22,17,39,Gender
+02/10/2016,2013,Meriden,Region 6,Female,Adoption,4,6,10,Gender
+02/10/2016,2013,Meriden,Region 6,Male,Adoption,5,12,17,Gender
+02/10/2016,2013,Waterbury,Region 5,Female,Adoption,1,16,17,Gender
+02/10/2016,2013,Waterbury,Region 5,Male,Adoption,1,27,28,Gender
+02/10/2016,2013,Torrington,Region 5,Female,Adoption,5,16,21,Gender
+02/10/2016,2013,Torrington,Region 5,Male,Adoption,8,14,22,Gender
+02/10/2016,2013,Danbury,Region 5,Male,Adoption,1,5,6,Gender
+02/10/2016,2013,Danbury,Region 5,Female,Adoption,3,3,6,Gender
+02/10/2016,2013,Manchester,Region 4,Female,Adoption,8,9,17,Gender
+02/10/2016,2013,Manchester,Region 4,Male,Adoption,11,12,23,Gender
+02/10/2016,2013,Hartford,Region 4,Female,Adoption,9,28,37,Gender
+02/10/2016,2013,Hartford,Region 4,Male,Adoption,8,37,45,Gender
+02/10/2016,2013,Willimantic,Region 3,Female,Adoption,5,15,20,Gender
+02/10/2016,2013,Bridgeport,Region 1,Male,Adoption,4,10,14,Gender
+02/10/2016,2013,Willimantic,Region 3,Male,Adoption,9,14,23,Gender
+02/10/2016,2013,Norwich,Region 3,Female,Adoption,10,26,36,Gender
+02/10/2016,2013,Norwich,Region 3,Male,Adoption,17,30,47,Gender
+02/10/2016,2013,Middletown,Region 3,Female,Adoption,5,7,12,Gender
+02/10/2016,2013,Middletown,Region 3,Male,Adoption,11,3,14,Gender
+02/10/2016,2013,New Haven,Region 2,Female,Adoption,4,16,20,Gender
+02/10/2016,2013,New Haven,Region 2,Male,Adoption,4,15,19,Gender
+02/10/2016,2013,Milford,Region 2,Male,Adoption,1,6,7,Gender
+02/10/2016,2013,Milford,Region 2,Female,Adoption,1,4,5,Gender
+02/10/2016,2013,Stamford,Region 1,Female,Adoption,0,1,1,Gender
+02/10/2016,2013,Stamford,Region 1,Male,Adoption,0,1,1,Gender
+02/10/2016,2013,Norwalk,Region 1,Female,Adoption,0,3,3,Gender
+02/10/2016,2013,Norwalk,Region 1,Male,Adoption,0,1,1,Gender
+02/10/2016,2012,New Britain,Region 6,Male,Adoption,11,14,25,Gender
+02/10/2016,2012,New Britain,Region 6,Female,Adoption,9,18,27,Gender
+02/10/2016,2012,Meriden,Region 6,Male,Adoption,1,13,14,Gender
+02/10/2016,2012,Meriden,Region 6,Female,Adoption,7,7,14,Gender
+02/10/2016,2012,Waterbury,Region 5,Male,Adoption,2,17,19,Gender
+02/10/2016,2012,Waterbury,Region 5,Female,Adoption,5,12,17,Gender
+02/10/2016,2012,Torrington,Region 5,Male,Adoption,4,11,15,Gender
+02/10/2016,2012,Torrington,Region 5,Female,Adoption,7,6,13,Gender
+02/10/2016,2012,Danbury,Region 5,Female,Adoption,0,4,4,Gender
+02/10/2016,2012,Manchester,Region 4,Male,Adoption,7,7,14,Gender
+02/10/2016,2012,Manchester,Region 4,Female,Adoption,7,4,11,Gender
+02/10/2016,2012,Hartford,Region 4,Male,Adoption,10,20,30,Gender
+02/10/2016,2012,Hartford,Region 4,Female,Adoption,10,10,20,Gender
+02/10/2016,2012,Willimantic,Region 3,Male,Adoption,3,11,14,Gender
+02/10/2016,2012,Willimantic,Region 3,Female,Adoption,7,7,14,Gender
+02/10/2016,2012,Norwich,Region 3,Male,Adoption,14,17,31,Gender
+02/10/2016,2012,Norwich,Region 3,Female,Adoption,10,19,29,Gender
+02/10/2016,2012,Middletown,Region 3,Male,Adoption,6,7,13,Gender
+02/10/2016,2012,Middletown,Region 3,Female,Adoption,4,1,5,Gender
+02/10/2016,2012,New Haven,Region 2,Male,Adoption,6,24,30,Gender
+02/10/2016,2012,New Haven,Region 2,Female,Adoption,4,23,27,Gender
+02/10/2016,2012,Milford,Region 2,Female,Adoption,3,9,12,Gender
+02/10/2016,2012,Milford,Region 2,Male,Adoption,1,5,6,Gender
+02/10/2016,2012,Stamford,Region 1,Male,Adoption,0,2,2,Gender
+02/10/2016,2012,Stamford,Region 1,Female,Adoption,0,3,3,Gender
+02/10/2016,2012,Norwalk,Region 1,Male,Adoption,1,2,3,Gender
+02/10/2016,2012,Norwalk,Region 1,Female,Adoption,2,0,2,Gender
+02/10/2016,2012,Bridgeport,Region 1,Male,Adoption,3,7,10,Gender
+02/10/2016,2012,Bridgeport,Region 1,Female,Adoption,2,9,11,Gender
+02/10/2016,2011,Bridgeport,Region 1,Male,Adoption,4,8,12,Gender
+02/10/2016,2011,New Britain,Region 6,Female,Adoption,5,18,23,Gender
+02/10/2016,2011,New Britain,Region 6,Male,Adoption,8,28,36,Gender
+02/10/2016,2011,Meriden,Region 6,Female,Adoption,3,9,12,Gender
+02/10/2016,2011,Meriden,Region 6,Male,Adoption,5,6,11,Gender
+02/10/2016,2011,Waterbury,Region 5,Female,Adoption,3,26,29,Gender
+02/10/2016,2011,Waterbury,Region 5,Male,Adoption,3,24,27,Gender
+02/10/2016,2011,Torrington,Region 5,Female,Adoption,9,15,24,Gender
+02/10/2016,2011,Torrington,Region 5,Male,Adoption,2,2,4,Gender
+02/10/2016,2011,Danbury,Region 5,Female,Adoption,4,3,7,Gender
+02/10/2016,2011,Danbury,Region 5,Male,Adoption,7,3,10,Gender
+02/10/2016,2011,Manchester,Region 4,Female,Adoption,12,26,38,Gender
+02/10/2016,2011,Manchester,Region 4,Male,Adoption,14,10,24,Gender
+02/10/2016,2011,Hartford,Region 4,Female,Adoption,11,18,29,Gender
+02/10/2016,2011,Hartford,Region 4,Male,Adoption,16,30,46,Gender
+02/10/2016,2011,Willimantic,Region 3,Female,Adoption,2,7,9,Gender
+02/10/2016,2011,Willimantic,Region 3,Male,Adoption,3,11,14,Gender
+02/10/2016,2011,Norwich,Region 3,Female,Adoption,13,16,29,Gender
+02/10/2016,2011,Norwich,Region 3,Male,Adoption,18,16,34,Gender
+02/10/2016,2011,Middletown,Region 3,Female,Adoption,4,1,5,Gender
+02/10/2016,2011,Middletown,Region 3,Male,Adoption,3,2,5,Gender
+02/10/2016,2011,New Haven,Region 2,Female,Adoption,5,20,25,Gender
+02/10/2016,2011,New Haven,Region 2,Male,Adoption,4,19,23,Gender
+02/10/2016,2011,Milford,Region 2,Male,Adoption,6,6,12,Gender
+02/10/2016,2011,Milford,Region 2,Female,Adoption,1,4,5,Gender
+02/10/2016,2011,Stamford,Region 1,Female,Adoption,1,3,4,Gender
+02/10/2016,2011,Stamford,Region 1,Male,Adoption,2,0,2,Gender
+02/10/2016,2011,Norwalk,Region 1,Female,Adoption,0,2,2,Gender
+02/10/2016,2011,Norwalk,Region 1,Male,Adoption,3,3,6,Gender
+02/10/2016,2011,Bridgeport,Region 1,Female,Adoption,2,11,13,Gender
+02/10/2016,2010,Stamford,Region 1,Male,Adoption,0,2,2,Gender
+02/10/2016,2010,New Britain,Region 6,Male,Adoption,11,19,30,Gender
+02/10/2016,2010,New Britain,Region 6,Female,Adoption,18,28,46,Gender
+02/10/2016,2010,Meriden,Region 6,Male,Adoption,5,9,14,Gender
+02/10/2016,2010,Meriden,Region 6,Female,Adoption,1,6,7,Gender
+02/10/2016,2010,Waterbury,Region 5,Male,Adoption,3,28,31,Gender
+02/10/2016,2010,Waterbury,Region 5,Female,Adoption,13,38,51,Gender
+02/10/2016,2010,Torrington,Region 5,Male,Adoption,4,10,14,Gender
+02/10/2016,2010,Torrington,Region 5,Female,Adoption,6,14,20,Gender
+02/10/2016,2010,Danbury,Region 5,Male,Adoption,4,4,8,Gender
+02/10/2016,2010,Danbury,Region 5,Female,Adoption,2,6,8,Gender
+02/10/2016,2010,Manchester,Region 4,Male,Adoption,11,18,29,Gender
+02/10/2016,2010,Manchester,Region 4,Female,Adoption,17,23,40,Gender
+02/10/2016,2010,Hartford,Region 4,Male,Adoption,16,34,50,Gender
+02/10/2016,2010,Hartford,Region 4,Female,Adoption,18,28,46,Gender
+02/10/2016,2010,Willimantic,Region 3,Male,Adoption,7,10,17,Gender
+02/10/2016,2010,Willimantic,Region 3,Female,Adoption,5,10,15,Gender
+02/10/2016,2010,Norwich,Region 3,Male,Adoption,14,18,32,Gender
+02/10/2016,2010,Norwich,Region 3,Female,Adoption,15,18,33,Gender
+02/10/2016,2010,Middletown,Region 3,Male,Adoption,7,2,9,Gender
+02/10/2016,2010,Middletown,Region 3,Female,Adoption,8,4,12,Gender
+02/10/2016,2010,New Haven,Region 2,Male,Adoption,8,23,31,Gender
+02/10/2016,2010,New Haven,Region 2,Female,Adoption,3,15,18,Gender
+02/10/2016,2010,Milford,Region 2,Female,Adoption,5,4,9,Gender
+02/10/2016,2010,Milford,Region 2,Male,Adoption,3,4,7,Gender
+02/10/2016,2010,Norwalk,Region 1,Male,Adoption,4,8,12,Gender
+02/10/2016,2010,Norwalk,Region 1,Female,Adoption,2,6,8,Gender
+02/10/2016,2010,Bridgeport,Region 1,Male,Adoption,9,12,21,Gender
+02/10/2016,2010,Bridgeport,Region 1,Female,Adoption,7,8,15,Gender
+02/10/2016,2009,Bridgeport,Region 1,Male,Adoption,7,15,22,Gender
+02/10/2016,2009,New Britain,Region 6,Female,Adoption,11,23,34,Gender
+02/10/2016,2009,Bridgeport,Region 1,Female,Adoption,4,12,16,Gender
+02/10/2016,2009,New Britain,Region 6,Male,Adoption,10,31,41,Gender
+02/10/2016,2009,Meriden,Region 6,Female,Adoption,2,7,9,Gender
+02/10/2016,2009,Meriden,Region 6,Male,Adoption,3,14,17,Gender
+02/10/2016,2009,Waterbury,Region 5,Female,Adoption,6,31,37,Gender
+02/10/2016,2009,Waterbury,Region 5,Male,Adoption,5,21,26,Gender
+02/10/2016,2009,Torrington,Region 5,Female,Adoption,7,8,15,Gender
+02/10/2016,2009,Torrington,Region 5,Male,Adoption,7,13,20,Gender
+02/10/2016,2009,Danbury,Region 5,Female,Adoption,2,2,4,Gender
+02/10/2016,2009,Danbury,Region 5,Male,Adoption,3,7,10,Gender
+02/10/2016,2009,Manchester,Region 4,Female,Adoption,16,30,46,Gender
+02/10/2016,2009,Manchester,Region 4,Male,Adoption,12,19,31,Gender
+02/10/2016,2009,Hartford,Region 4,Female,Adoption,16,36,52,Gender
+02/10/2016,2009,Hartford,Region 4,Male,Adoption,22,27,49,Gender
+02/10/2016,2009,Willimantic,Region 3,Female,Adoption,4,19,23,Gender
+02/10/2016,2009,Willimantic,Region 3,Male,Adoption,4,15,19,Gender
+02/10/2016,2009,Norwich,Region 3,Female,Adoption,5,13,18,Gender
+02/10/2016,2009,Norwich,Region 3,Male,Adoption,16,13,29,Gender
+02/10/2016,2009,Middletown,Region 3,Female,Adoption,11,2,13,Gender
+02/10/2016,2009,Middletown,Region 3,Male,Adoption,7,2,9,Gender
+02/10/2016,2009,New Haven,Region 2,Female,Adoption,10,20,30,Gender
+02/10/2016,2009,New Haven,Region 2,Male,Adoption,8,21,29,Gender
+02/10/2016,2009,Milford,Region 2,Male,Adoption,3,4,7,Gender
+02/10/2016,2009,Milford,Region 2,Female,Adoption,7,8,15,Gender
+02/10/2016,2009,Norwalk,Region 1,Male,Adoption,3,2,5,Gender
+02/10/2016,2009,Stamford,Region 1,Female,Adoption,0,1,1,Gender
+02/10/2016,2009,Stamford,Region 1,Male,Adoption,0,1,1,Gender
+02/10/2016,2009,Norwalk,Region 1,Female,Adoption,2,2,4,Gender
+02/10/2016,2008,Willimantic,Region 3,Male,Adoption,6,25,31,Gender
+02/10/2016,2008,Other,Region 0,Male,Adoption,1,0,1,Gender
+02/10/2016,2008,Bridgeport,Region 1,Female,Adoption,10,11,21,Gender
+02/10/2016,2008,Bridgeport,Region 1,Male,Adoption,8,11,19,Gender
+02/10/2016,2008,Norwalk,Region 1,Female,Adoption,3,3,6,Gender
+02/10/2016,2008,Norwalk,Region 1,Male,Adoption,2,3,5,Gender
+02/10/2016,2008,Stamford,Region 1,Female,Adoption,0,1,1,Gender
+02/10/2016,2008,Stamford,Region 1,Male,Adoption,0,3,3,Gender
+02/10/2016,2008,Milford,Region 2,Male,Adoption,3,8,11,Gender
+02/10/2016,2008,Milford,Region 2,Female,Adoption,5,11,16,Gender
+02/10/2016,2008,New Haven,Region 2,Female,Adoption,12,14,26,Gender
+02/10/2016,2008,New Haven,Region 2,Male,Adoption,8,18,26,Gender
+02/10/2016,2008,Middletown,Region 3,Female,Adoption,6,2,8,Gender
+02/10/2016,2008,Middletown,Region 3,Male,Adoption,1,1,2,Gender
+02/10/2016,2008,Norwich,Region 3,Female,Adoption,15,21,36,Gender
+02/10/2016,2008,Norwich,Region 3,Male,Adoption,25,21,46,Gender
+02/10/2016,2008,Willimantic,Region 3,Female,Adoption,10,20,30,Gender
+02/10/2016,2008,Hartford,Region 4,Female,Adoption,11,35,46,Gender
+02/10/2016,2008,Hartford,Region 4,Male,Adoption,15,30,45,Gender
+02/10/2016,2008,Manchester,Region 4,Female,Adoption,14,22,36,Gender
+02/10/2016,2008,Manchester,Region 4,Male,Adoption,14,23,37,Gender
+02/10/2016,2008,Danbury,Region 5,Female,Adoption,4,3,7,Gender
+02/10/2016,2008,Danbury,Region 5,Male,Adoption,4,3,7,Gender
+02/10/2016,2008,Torrington,Region 5,Female,Adoption,7,5,12,Gender
+02/10/2016,2008,Torrington,Region 5,Male,Adoption,5,6,11,Gender
+02/10/2016,2008,Waterbury,Region 5,Female,Adoption,4,7,11,Gender
+02/10/2016,2008,Waterbury,Region 5,Male,Adoption,7,24,31,Gender
+02/10/2016,2008,Meriden,Region 6,Female,Adoption,2,14,16,Gender
+02/10/2016,2008,Meriden,Region 6,Male,Adoption,3,14,17,Gender
+02/10/2016,2008,New Britain,Region 6,Female,Adoption,12,17,29,Gender
+02/10/2016,2008,New Britain,Region 6,Male,Adoption,15,21,36,Gender
+02/10/2016,2007,Bridgeport,Region 1,Male,Adoption,4,9,13,Gender
+02/10/2016,2007,New Britain,Region 6,Female,Adoption,11,22,33,Gender
+02/10/2016,2007,New Britain,Region 6,Male,Adoption,9,21,30,Gender
+02/10/2016,2007,Meriden,Region 6,Female,Adoption,2,5,7,Gender
+02/10/2016,2007,Meriden,Region 6,Male,Adoption,1,8,9,Gender
+02/10/2016,2007,Waterbury,Region 5,Female,Adoption,7,12,19,Gender
+02/10/2016,2007,Waterbury,Region 5,Male,Adoption,4,20,24,Gender
+02/10/2016,2007,Torrington,Region 5,Female,Adoption,9,6,15,Gender
+02/10/2016,2007,Torrington,Region 5,Male,Adoption,7,5,12,Gender
+02/10/2016,2007,Danbury,Region 5,Female,Adoption,2,4,6,Gender
+02/10/2016,2007,Danbury,Region 5,Male,Adoption,5,6,11,Gender
+02/10/2016,2007,Manchester,Region 4,Female,Adoption,5,17,22,Gender
+02/10/2016,2007,Manchester,Region 4,Male,Adoption,11,18,29,Gender
+02/10/2016,2007,Hartford,Region 4,Female,Adoption,8,34,42,Gender
+02/10/2016,2007,Hartford,Region 4,Male,Adoption,5,21,26,Gender
+02/10/2016,2007,Willimantic,Region 3,Female,Adoption,9,14,23,Gender
+02/10/2016,2007,Willimantic,Region 3,Male,Adoption,11,17,28,Gender
+02/10/2016,2007,Norwich,Region 3,Female,Adoption,16,18,34,Gender
+02/10/2016,2007,Norwich,Region 3,Male,Adoption,14,17,31,Gender
+02/10/2016,2007,Middletown,Region 3,Female,Adoption,6,3,9,Gender
+02/10/2016,2007,Middletown,Region 3,Male,Adoption,7,10,17,Gender
+02/10/2016,2007,New Haven,Region 2,Female,Adoption,8,11,19,Gender
+02/10/2016,2007,New Haven,Region 2,Male,Adoption,13,15,28,Gender
+02/10/2016,2007,Milford,Region 2,Male,Adoption,5,5,10,Gender
+02/10/2016,2007,Milford,Region 2,Female,Adoption,3,7,10,Gender
+02/10/2016,2007,Stamford,Region 1,Female,Adoption,1,1,2,Gender
+02/10/2016,2007,Stamford,Region 1,Male,Adoption,2,2,4,Gender
+02/10/2016,2007,Norwalk,Region 1,Female,Adoption,2,2,4,Gender
+02/10/2016,2007,Norwalk,Region 1,Male,Adoption,1,2,3,Gender
+02/10/2016,2007,Bridgeport,Region 1,Female,Adoption,0,12,12,Gender
+02/10/2016,2006,Stamford,Region 1,Female,Adoption,1,0,1,Gender
+02/10/2016,2006,New Britain,Region 6,Male,Adoption,9,16,25,Gender
+02/10/2016,2006,New Britain,Region 6,Female,Adoption,9,22,31,Gender
+02/10/2016,2006,Meriden,Region 6,Male,Adoption,3,0,3,Gender
+02/10/2016,2006,Meriden,Region 6,Female,Adoption,2,5,7,Gender
+02/10/2016,2006,Waterbury,Region 5,Male,Adoption,4,20,24,Gender
+02/10/2016,2006,Waterbury,Region 5,Female,Adoption,5,16,21,Gender
+02/10/2016,2006,Torrington,Region 5,Male,Adoption,6,3,9,Gender
+02/10/2016,2006,Torrington,Region 5,Female,Adoption,4,3,7,Gender
+02/10/2016,2006,Danbury,Region 5,Male,Adoption,5,5,10,Gender
+02/10/2016,2006,Danbury,Region 5,Female,Adoption,2,4,6,Gender
+02/10/2016,2006,Manchester,Region 4,Male,Adoption,10,9,19,Gender
+02/10/2016,2006,Manchester,Region 4,Female,Adoption,6,15,21,Gender
+02/10/2016,2006,Hartford,Region 4,Male,Adoption,21,29,50,Gender
+02/10/2016,2006,Hartford,Region 4,Female,Adoption,9,18,27,Gender
+02/10/2016,2006,Willimantic,Region 3,Male,Adoption,6,18,24,Gender
+02/10/2016,2006,Willimantic,Region 3,Female,Adoption,7,8,15,Gender
+02/10/2016,2006,Norwich,Region 3,Male,Adoption,10,15,25,Gender
+02/10/2016,2006,Norwich,Region 3,Female,Adoption,10,19,29,Gender
+02/10/2016,2006,Middletown,Region 3,Male,Adoption,0,2,2,Gender
+02/10/2016,2006,Middletown,Region 3,Female,Adoption,3,3,6,Gender
+02/10/2016,2006,New Haven,Region 2,Male,Adoption,6,20,26,Gender
+02/10/2016,2006,New Haven,Region 2,Female,Adoption,6,14,20,Gender
+02/10/2016,2006,Milford,Region 2,Female,Adoption,11,11,22,Gender
+02/10/2016,2006,Milford,Region 2,Male,Adoption,5,15,20,Gender
+02/10/2016,2006,Stamford,Region 1,Male,Adoption,1,1,2,Gender
+02/10/2016,2006,Norwalk,Region 1,Male,Adoption,0,8,8,Gender
+02/10/2016,2006,Norwalk,Region 1,Female,Adoption,0,3,3,Gender
+02/10/2016,2006,Bridgeport,Region 1,Male,Adoption,13,7,20,Gender
+02/10/2016,2006,Bridgeport,Region 1,Female,Adoption,6,7,13,Gender
+02/10/2016,2005,Bridgeport,Region 1,Female,Adoption,5,21,26,Gender
+02/10/2016,2005,New Britain,Region 6,Female,Adoption,6,23,29,Gender
+02/10/2016,2005,New Britain,Region 6,Male,Adoption,4,21,25,Gender
+02/10/2016,2005,Meriden,Region 6,Female,Adoption,4,12,16,Gender
+02/10/2016,2005,Meriden,Region 6,Male,Adoption,5,7,12,Gender
+02/10/2016,2005,Waterbury,Region 5,Female,Adoption,6,22,28,Gender
+02/10/2016,2005,Waterbury,Region 5,Male,Adoption,3,31,34,Gender
+02/10/2016,2005,Torrington,Region 5,Female,Adoption,2,14,16,Gender
+02/10/2016,2005,Torrington,Region 5,Male,Adoption,6,7,13,Gender
+02/10/2016,2005,Danbury,Region 5,Female,Adoption,2,7,9,Gender
+02/10/2016,2005,Danbury,Region 5,Male,Adoption,2,6,8,Gender
+02/10/2016,2005,Manchester,Region 4,Female,Adoption,8,14,22,Gender
+02/10/2016,2005,Manchester,Region 4,Male,Adoption,8,11,19,Gender
+02/10/2016,2005,Hartford,Region 4,Female,Adoption,8,19,27,Gender
+02/10/2016,2005,Hartford,Region 4,Male,Adoption,9,27,36,Gender
+02/10/2016,2005,Willimantic,Region 3,Female,Adoption,3,15,18,Gender
+02/10/2016,2005,Willimantic,Region 3,Male,Adoption,10,23,33,Gender
+02/10/2016,2005,Norwich,Region 3,Female,Adoption,12,18,30,Gender
+02/10/2016,2005,Norwich,Region 3,Male,Adoption,8,9,17,Gender
+02/10/2016,2005,Middletown,Region 3,Female,Adoption,2,2,4,Gender
+02/10/2016,2005,Middletown,Region 3,Male,Adoption,3,0,3,Gender
+02/10/2016,2005,New Haven,Region 2,Female,Adoption,4,37,41,Gender
+02/10/2016,2005,New Haven,Region 2,Male,Adoption,2,36,38,Gender
+02/10/2016,2005,Milford,Region 2,Male,Adoption,2,7,9,Gender
+02/10/2016,2005,Milford,Region 2,Female,Adoption,1,1,2,Gender
+02/10/2016,2005,Stamford,Region 1,Female,Adoption,0,5,5,Gender
+02/10/2016,2005,Bridgeport,Region 1,Male,Adoption,4,22,26,Gender
+02/10/2016,2005,Stamford,Region 1,Male,Adoption,0,3,3,Gender
+02/10/2016,2005,Norwalk,Region 1,Female,Adoption,0,5,5,Gender
+02/10/2016,2005,Norwalk,Region 1,Male,Adoption,1,1,2,Gender
+02/10/2016,2004,Bridgeport,Region 1,Male,Adoption,7,18,25,Gender
+02/10/2016,2004,New Britain,Region 6,Male,Adoption,2,14,16,Gender
+02/10/2016,2004,New Britain,Region 6,Female,Adoption,3,13,16,Gender
+02/10/2016,2004,Meriden,Region 6,Male,Adoption,6,7,13,Gender
+02/10/2016,2004,Meriden,Region 6,Female,Adoption,3,10,13,Gender
+02/10/2016,2004,Waterbury,Region 5,Male,Adoption,1,26,27,Gender
+02/10/2016,2004,Waterbury,Region 5,Female,Adoption,1,21,22,Gender
+02/10/2016,2004,Torrington,Region 5,Male,Adoption,2,17,19,Gender
+02/10/2016,2004,Torrington,Region 5,Female,Adoption,1,12,13,Gender
+02/10/2016,2004,Danbury,Region 5,Male,Adoption,3,5,8,Gender
+02/10/2016,2004,Danbury,Region 5,Female,Adoption,2,8,10,Gender
+02/10/2016,2004,Manchester,Region 4,Male,Adoption,8,8,16,Gender
+02/10/2016,2004,Manchester,Region 4,Female,Adoption,1,6,7,Gender
+02/10/2016,2004,Hartford,Region 4,Male,Adoption,0,32,32,Gender
+02/10/2016,2004,Hartford,Region 4,Female,Adoption,1,31,32,Gender
+02/10/2016,2004,Willimantic,Region 3,Male,Adoption,0,17,17,Gender
+02/10/2016,2004,Willimantic,Region 3,Female,Adoption,3,13,16,Gender
+02/10/2016,2004,Norwich,Region 3,Male,Adoption,3,18,21,Gender
+02/10/2016,2004,Norwich,Region 3,Female,Adoption,1,17,18,Gender
+02/10/2016,2004,Middletown,Region 3,Male,Adoption,0,1,1,Gender
+02/10/2016,2004,New Haven,Region 2,Male,Adoption,6,22,28,Gender
+02/10/2016,2004,New Haven,Region 2,Female,Adoption,8,16,24,Gender
+02/10/2016,2004,Stamford,Region 1,Male,Adoption,0,1,1,Gender
+02/10/2016,2004,Stamford,Region 1,Female,Adoption,0,1,1,Gender
+02/10/2016,2004,Norwalk,Region 1,Male,Adoption,2,3,5,Gender
+02/10/2016,2004,Norwalk,Region 1,Female,Adoption,1,2,3,Gender
+02/10/2016,2004,Bridgeport,Region 1,Female,Adoption,3,18,21,Gender
+02/10/2016,2004,Other,Region 0,Male,Adoption,0,1,1,Gender
+02/10/2016,2003,Other,Region 0,Male,Adoption,0,2,2,Gender
+02/10/2016,2003,New Britain,Region 6,Female,Adoption,1,8,9,Gender
+02/10/2016,2003,New Britain,Region 6,Male,Adoption,1,14,15,Gender
+02/10/2016,2003,Meriden,Region 6,Female,Adoption,2,6,8,Gender
+02/10/2016,2003,Meriden,Region 6,Male,Adoption,4,4,8,Gender
+02/10/2016,2003,Waterbury,Region 5,Female,Adoption,2,16,18,Gender
+02/10/2016,2003,Waterbury,Region 5,Male,Adoption,2,13,15,Gender
+02/10/2016,2003,Torrington,Region 5,Female,Adoption,1,5,6,Gender
+02/10/2016,2003,Torrington,Region 5,Male,Adoption,2,9,11,Gender
+02/10/2016,2003,Danbury,Region 5,Female,Adoption,1,4,5,Gender
+02/10/2016,2003,Danbury,Region 5,Male,Adoption,3,2,5,Gender
+02/10/2016,2003,Manchester,Region 4,Female,Adoption,4,11,15,Gender
+02/10/2016,2003,Manchester,Region 4,Male,Adoption,2,11,13,Gender
+02/10/2016,2003,Hartford,Region 4,Female,Adoption,2,14,16,Gender
+02/10/2016,2003,Hartford,Region 4,Male,Adoption,1,20,21,Gender
+02/10/2016,2003,Willimantic,Region 3,Female,Adoption,1,6,7,Gender
+02/10/2016,2003,Willimantic,Region 3,Male,Adoption,2,7,9,Gender
+02/10/2016,2003,Norwich,Region 3,Female,Adoption,3,17,20,Gender
+02/10/2016,2003,Norwich,Region 3,Male,Adoption,0,20,20,Gender
+02/10/2016,2003,Middletown,Region 3,Female,Adoption,0,3,3,Gender
+02/10/2016,2003,Middletown,Region 3,Male,Adoption,1,2,3,Gender
+02/10/2016,2003,New Haven,Region 2,Female,Adoption,4,22,26,Gender
+02/10/2016,2003,New Haven,Region 2,Male,Adoption,3,28,31,Gender
+02/10/2016,2003,Stamford,Region 1,Female,Adoption,1,0,1,Gender
+02/10/2016,2003,Norwalk,Region 1,Female,Adoption,1,1,2,Gender
+02/10/2016,2003,Bridgeport,Region 1,Female,Adoption,1,13,14,Gender
+02/10/2016,2003,Bridgeport,Region 1,Male,Adoption,3,19,22,Gender
+02/10/2016,2003,Other,Region 0,Female,Adoption,0,2,2,Gender
+02/10/2016,2002,Willimantic,Region 3,Male,Adoption,1,23,24,Gender
+02/10/2016,2002,New Britain,Region 6,Male,Adoption,2,29,31,Gender
+02/10/2016,2002,New Britain,Region 6,Female,Adoption,4,22,26,Gender
+02/10/2016,2002,Meriden,Region 6,Male,Adoption,2,21,23,Gender
+02/10/2016,2002,Meriden,Region 6,Female,Adoption,3,8,11,Gender
+02/10/2016,2002,Waterbury,Region 5,Male,Adoption,5,33,38,Gender
+02/10/2016,2002,Waterbury,Region 5,Female,Adoption,3,32,35,Gender
+02/10/2016,2002,Torrington,Region 5,Male,Adoption,3,14,17,Gender
+02/10/2016,2002,Torrington,Region 5,Female,Adoption,3,21,24,Gender
+02/10/2016,2002,Danbury,Region 5,Male,Adoption,1,12,13,Gender
+02/10/2016,2002,Danbury,Region 5,Female,Adoption,3,13,16,Gender
+02/10/2016,2002,Manchester,Region 4,Male,Adoption,7,24,31,Gender
+02/10/2016,2002,Manchester,Region 4,Female,Adoption,10,23,33,Gender
+02/10/2016,2002,Hartford,Region 4,Male,Adoption,5,34,39,Gender
+02/10/2016,2002,Hartford,Region 4,Female,Adoption,7,44,51,Gender
+02/10/2016,2002,Willimantic,Region 3,Female,Adoption,2,16,18,Gender
+02/10/2016,2002,Norwich,Region 3,Male,Adoption,11,55,66,Gender
+02/10/2016,2002,Norwich,Region 3,Female,Adoption,3,56,59,Gender
+02/10/2016,2002,Middletown,Region 3,Male,Adoption,2,17,19,Gender
+02/10/2016,2002,Middletown,Region 3,Female,Adoption,2,17,19,Gender
+02/10/2016,2002,New Haven,Region 2,Male,Adoption,7,48,55,Gender
+02/10/2016,2002,New Haven,Region 2,Female,Adoption,2,39,41,Gender
+02/10/2016,2002,Stamford,Region 1,Female,Adoption,0,3,3,Gender
+02/10/2016,2002,Stamford,Region 1,Male,Adoption,1,5,6,Gender
+02/10/2016,2002,Norwalk,Region 1,Female,Adoption,0,3,3,Gender
+02/10/2016,2002,Norwalk,Region 1,Male,Adoption,0,1,1,Gender
+02/10/2016,2002,Bridgeport,Region 1,Male,Adoption,5,46,51,Gender
+02/10/2016,2002,Bridgeport,Region 1,Female,Adoption,5,38,43,Gender
+02/10/2016,2002,Other,Region 0,Male,Adoption,2,6,8,Gender
+02/10/2016,2002,Other,Region 0,Female,Adoption,0,7,7,Gender
+02/10/2016,2001,Hartford,Region 4,Male,Adoption,7,17,24,Gender
+02/10/2016,2001,New Britain,Region 6,Female,Adoption,3,13,16,Gender
+02/10/2016,2001,New Britain,Region 6,Male,Adoption,3,11,14,Gender
+02/10/2016,2001,Meriden,Region 6,Female,Adoption,2,11,13,Gender
+02/10/2016,2001,Meriden,Region 6,Male,Adoption,2,14,16,Gender
+02/10/2016,2001,Waterbury,Region 5,Female,Adoption,6,19,25,Gender
+02/10/2016,2001,Waterbury,Region 5,Male,Adoption,4,29,33,Gender
+02/10/2016,2001,Torrington,Region 5,Female,Adoption,0,17,17,Gender
+02/10/2016,2001,Torrington,Region 5,Male,Adoption,2,15,17,Gender
+02/10/2016,2001,Danbury,Region 5,Female,Adoption,0,5,5,Gender
+02/10/2016,2001,Danbury,Region 5,Male,Adoption,0,5,5,Gender
+02/10/2016,2001,Manchester,Region 4,Female,Adoption,0,15,15,Gender
+02/10/2016,2001,Manchester,Region 4,Male,Adoption,3,6,9,Gender
+02/10/2016,2001,Hartford,Region 4,Female,Adoption,10,37,47,Gender
+02/10/2016,2001,Willimantic,Region 3,Female,Adoption,2,9,11,Gender
+02/10/2016,2001,Willimantic,Region 3,Male,Adoption,1,9,10,Gender
+02/10/2016,2001,Norwich,Region 3,Female,Adoption,1,27,28,Gender
+02/10/2016,2001,Norwich,Region 3,Male,Adoption,4,20,24,Gender
+02/10/2016,2001,Middletown,Region 3,Female,Adoption,1,8,9,Gender
+02/10/2016,2001,Middletown,Region 3,Male,Adoption,2,4,6,Gender
+02/10/2016,2001,New Haven,Region 2,Female,Adoption,4,25,29,Gender
+02/10/2016,2001,New Haven,Region 2,Male,Adoption,5,26,31,Gender
+02/10/2016,2001,Stamford,Region 1,Male,Adoption,0,3,3,Gender
+02/10/2016,2001,Stamford,Region 1,Female,Adoption,0,9,9,Gender
+02/10/2016,2001,Norwalk,Region 1,Male,Adoption,0,3,3,Gender
+02/10/2016,2001,Norwalk,Region 1,Female,Adoption,0,3,3,Gender
+02/10/2016,2001,Bridgeport,Region 1,Female,Adoption,5,22,27,Gender
+02/10/2016,2001,Bridgeport,Region 1,Male,Adoption,0,26,26,Gender
+02/10/2016,2001,Other,Region 0,Female,Adoption,1,11,12,Gender
+02/10/2016,2001,Other,Region 0,Male,Adoption,2,9,11,Gender
+02/10/2016,2000,Other,Region 0,Male,Adoption,0,2,2,Gender
+02/10/2016,2000,New Britain,Region 6,Male,Adoption,0,3,3,Gender
+02/10/2016,2000,New Britain,Region 6,Female,Adoption,1,5,6,Gender
+02/10/2016,2000,Meriden,Region 6,Male,Adoption,1,4,5,Gender
+02/10/2016,2000,Meriden,Region 6,Female,Adoption,0,5,5,Gender
+02/10/2016,2000,Waterbury,Region 5,Male,Adoption,4,17,21,Gender
+02/10/2016,2000,Waterbury,Region 5,Female,Adoption,3,10,13,Gender
+02/10/2016,2000,Torrington,Region 5,Male,Adoption,0,7,7,Gender
+02/10/2016,2000,Torrington,Region 5,Female,Adoption,1,10,11,Gender
+02/10/2016,2000,Danbury,Region 5,Male,Adoption,0,1,1,Gender
+02/10/2016,2000,Bridgeport,Region 1,Male,Adoption,0,4,4,Gender
+02/10/2016,2000,Danbury,Region 5,Female,Adoption,0,6,6,Gender
+02/10/2016,2000,Bridgeport,Region 1,Female,Adoption,2,6,8,Gender
+02/10/2016,2000,Manchester,Region 4,Male,Adoption,0,7,7,Gender
+02/10/2016,2000,Manchester,Region 4,Female,Adoption,1,4,5,Gender
+02/10/2016,2000,Hartford,Region 4,Male,Adoption,2,23,25,Gender
+02/10/2016,2000,Hartford,Region 4,Female,Adoption,1,15,16,Gender
+02/10/2016,2000,Willimantic,Region 3,Male,Adoption,1,6,7,Gender
+02/10/2016,2000,Willimantic,Region 3,Female,Adoption,2,12,14,Gender
+02/10/2016,2000,Norwich,Region 3,Male,Adoption,2,16,18,Gender
+02/10/2016,2000,Norwich,Region 3,Female,Adoption,1,13,14,Gender
+02/10/2016,2000,Middletown,Region 3,Male,Adoption,0,6,6,Gender
+02/10/2016,2000,Middletown,Region 3,Female,Adoption,0,8,8,Gender
+02/10/2016,2000,New Haven,Region 2,Male,Adoption,1,10,11,Gender
+02/10/2016,2000,New Haven,Region 2,Female,Adoption,3,18,21,Gender
+02/10/2016,2000,Norwalk,Region 1,Female,Adoption,0,2,2,Gender
